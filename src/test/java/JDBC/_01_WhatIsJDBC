@@ -1,0 +1,8 @@
+1. What  is JDBC?
+- It stand for Java Data Base Connectivity.
+- It is a Java library that allows us to get connected with the database,
+get data from database and use the data in our automation code.
+
+2. How Do you use JDBC
+- I create a connection with the database by using the credentials(url(hostname), port number, username, password)provided by the company
+then I send my query and get the data for that query and compare the data from database with the data from the UI or API
